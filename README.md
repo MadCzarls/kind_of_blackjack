@@ -2,7 +2,7 @@ Copyright (C) 2016 Karol Kasiarz
 
 Kind of blackjack, according to the rules we used to have when we play in my 
 home ;]. Your score has to be higher than another player and as close to the 
-21 points as possible. Having more then 21 points means autofail.
+21 points as possible. Having more then 21 points means failure, loss, defeat, game over.
 
 Having 21 points with ten and ace means "natural twenty-one (pl: "oczko")" 
 and it beats another player"s 21 points if the latter consists of with more than two cards.
