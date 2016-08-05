@@ -1,0 +1,29 @@
+    small_deck= {
+        "dziewiątka kier": 0, "dziesiątka kier": 10, "walet kier": 3, 
+        "dama kier": 4, "król kier": 5, "as kier": 11,
+        "dziewiątka pik": 0, "dziesiątka pik": 10, "walet pik": 3, 
+        "dama pik": 4, "król pik": 5, "as pik": 11,
+        "dziewiątka karo": 0, "dziesiątka karo": 10, "walet karo": 3, 
+        "dama karo": 4, "król karo": 5, "as karo": 11,
+        "dziewiątka trefl": 0, "dziesiątka trefl": 10, "walet trefl": 3,
+        "dama trefl": 4, "król trefl": 5, "as trefl": 11
+        }
+    
+    full_deck = {
+        "dwójka kier": 2, "trójka kier": 3, "czwórka kier": 4, 
+        "piątka kier": 5, "szóstka kier": 6, "siódemka kier": 7, 
+        "ósemka kier": 8, "dziewiątka kier": 9, "dziesiątka kier": 10,
+        "walet kier": 3, "dama kier": 4, "król kier": 5, "as kier": 11,
+        "dwójka pik": 2, "trójka pik": 3, "czwórka pik": 4,
+        "piątka pik": 5, "szóstka pik": 6, "siódemka pik": 7, 
+        "ósemka pik": 8, "dziewiątka pik": 9, "dziesiątka pik": 10,
+        "walet pik": 3, "dama pik": 4, "król pik": 5, "as pik": 11,
+        "dwójka karo": 2, "trójka karo": 3, "czwórka karo": 4, 
+        "piątka karo": 5, "szóstka karo": 6, "siódemka karo": 7, 
+        "ósemka karo": 8, "dziewiątka karo": 9, "dziesiątka karo": 10, 
+        "walet karo": 3, "dama karo": 4, "król karo": 5, "as karo": 11,
+        "dwójka trefl": 2, "trójka trefl": 3, "czwórka trefl": 4, 
+        "piątka trefl": 5, "szóstka trefl": 6, "siódemka trefl": 7, 
+        "ósemka trefl": 8, "dziewiątka trefl": 9, "dziesiątka trefl": 10,
+        "walet trefl": 3, "dama trefl": 4, "król trefl": 5, "as trefl": 11
+        }
